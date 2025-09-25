@@ -33,15 +33,16 @@
 
 ## 📌 Highlight Projects
 
+### 🛍️ [Artisan-Alley](https://github.com/Saumya-Sachan/Artisan-Alley)
+- 👜 A platform connecting local artisans with customers to showcase and sell unique handmade products.
+- 🤝 Supports community growth through direct engagement and storytelling features.
+
+### 🟧 [Leetcodes](https://github.com/Saumya-Sachan/Leetcodes)
+- 🧩 Collection of codes pf problems solved in LeetCode.
+
 ### ⚖️ [Justice Ally](https://github.com/Saumya-Sachan/justice-ally)
 - 📄 Simplifies legal documents and predicts IPC relevance using ML.
 - ⚙️ Assists users with categorized case analysis and legal recommendations.
-
-### 🟧 [Leetcodes](https://github.com/Saumya-Sachan/Leetcodes)
-- 🧩 Collection of solved LeetCode problems and solutions in various languages.
-
-### 📇 [Contact-book](https://github.com/Saumya-Sachan/Contact-book)
-- 📱 Digital contact management application for storing and organizing contacts.
 
 ### 🩸 [Blood_Sync](https://github.com/Saumya-Sachan/Blood_Sync)
 - 🏥 Platform to connect blood donors with recipients and streamline blood donation.
@@ -91,7 +92,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center" style="border-radius:16px; padding:28px; color:#fff; font-size:1.8em; font-weight:bold; background:linear-gradient(90deg,#ff8a00,#e52e71,#43cea2,#185a9d); box-shadow:0 4px 16px rgba(0,0,0,0.15); letter-spacing:2px;">
+      <td align="center" style="border-radius:16px; padding:28px; color:#fff; font-size:1.8em; font-weight:bold; background:linear-gradient(90deg,#ff8a00,#e52e71,#43cea2,#185a9d); box-shadow:0 4px 32px 0 rgba(0,0,0,0.20);">
         🎨✨ Thank You for visiting! ✨🎨
       </td>
     </tr>
